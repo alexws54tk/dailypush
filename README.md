@@ -4,19 +4,19 @@ If you want to appear that you are very active user in GitHub then this is the r
 
 Execute the following commands:
 
-> cd ~
-
-> git clone https://github.com/alexws54tk/dailypush.git
-
-> cd dailypush
-
-> nano daily.sh
+```bash
+cd ~
+git clone https://github.com/alexws54tk/dailypush.git
+cd dailypush
+nano daily.sh
+```
 
 Replace the capitalized words with your data, save and execute the following commands.
 
-> chmod +x daily.sh
-
-> ./daily.sh
+```bash
+chmod +x daily.sh
+./daily.sh
+```
 
 Every dot below this line is the number of times that the tool has been executed. A push is executed every 10 minutes.
 
@@ -272,4 +272,4 @@ Every dot below this line is the number of times that the tool has been executed
 ................................................................................................................................................
 ................................................................................................................................................
 ................................................................................................................................................
-........
+.........
